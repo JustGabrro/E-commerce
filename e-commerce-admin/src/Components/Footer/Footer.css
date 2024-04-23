@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  background: white;
+  padding-bottom: 50px;
+}
+.footer hr {
+  width: 80%;
+  height: 2px;
+  background: #989898;
+  border: none;
+}
+.footer p{
+    color: #1A1A1A;
+    font-size: 16px;
+}
